@@ -71,7 +71,7 @@
 			<h1><?php echo $conf['name'] ?></h1>
 			<p><?= $conf['tagline']; ?></p>
 			<button type="button" class="btn btn-info imgShow" open-status="closed">Show Images</button>
-			<a class="btn btn-default" href="http://proxy.mosh.codes" target="_blank" >Proxy</a>
+			
 			<div class="row"><ul class="imgFallHere list-inline list-unstyled"></ul></div>
 		</div>
 	</div>
