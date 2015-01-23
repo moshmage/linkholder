@@ -18,7 +18,7 @@
 	$conf['linkDeleted'] = "Deleted the following link:";
 	$conf['linkAdded'] = "The following link was added";
 	$conf['sameLink'] = "This link already exists ;D";
-	$conf['noLinks'] = "No links to show...;"
+	$conf['noLinks'] = "No links to show...";
 
 	// FB Share Modal
 	$conf['modalWarning'] = "Make sure you select <strong>FB-Group</strong> in the next window :)";
