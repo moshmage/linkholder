@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <?php 
-	include("helping_functions.php");
+	include("helping_functions.php"); 
 	
 
 	$conf['name'] = "Site Name";
